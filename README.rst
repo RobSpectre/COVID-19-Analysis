@@ -79,6 +79,13 @@ Data
   `nyc_hospital_beds.csv`_ to New York boroughs.
 
 
+Meta
+============
+
+* Written by `Rob Spectre`_
+* Released under `MIT License`_
+* Software is as is - no warranty expressed or implied.
+
 
 .. _COVID-19 NYC ER Visits: https://github.com/RobSpectre/COVID-19-Analysis/blob/master/COVID%2019%20NYC%20ER%20Visits.ipynb
 .. _COVID-19 NYC Hospital Beds: https://github.com/RobSpectre/COVID-19-Analysis/blob/master/COVID-19%20NYC%20Hospital%20Beds.ipynb
@@ -97,3 +104,6 @@ Data
 .. _new_york_state_hospitaliztion_and_discharge.xlsx: https://github.com/RobSpectre/COVID-19-Analysis/blob/master/data/new_york_state_hospitaliztion_and_discharge.xlsx
 .. _nyc_hospital_beds.csv: https://github.com/RobSpectre/COVID-19-Analysis/blob/master/data/nyc_hospital_beds.csv
 .. _nyc_hospital_region_mapping.csv: https://github.com/RobSpectre/COVID-19-Analysis/blob/master/data/nyc_hospital_region_mapping.csv
+.. _Rob Spectre: http://www.brooklynhacker.com
+.. _MIT License: http://opensource.org/licenses/MIT
+
