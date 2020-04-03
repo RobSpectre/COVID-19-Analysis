@@ -1,0 +1,510 @@
+bed_type,count,hospital
+Coronary Care Beds,8,New York-Presbyterian/Lower Manhattan Hospital
+Intensive Care Beds,13,New York-Presbyterian/Lower Manhattan Hospital
+Maternity Beds,24,New York-Presbyterian/Lower Manhattan Hospital
+Medical / Surgical Beds,127,New York-Presbyterian/Lower Manhattan Hospital
+Neonatal Intermediate Care Beds,8,New York-Presbyterian/Lower Manhattan Hospital
+Total Beds,180,New York-Presbyterian/Lower Manhattan Hospital
+Bone Marrow Transplant Beds,6,NYU Langone Hospitals
+Intensive Care Beds,161,NYU Langone Hospitals
+Maternity Beds,36,NYU Langone Hospitals
+Medical / Surgical Beds,409,NYU Langone Hospitals
+Neonatal Intensive Care Beds,7,NYU Langone Hospitals
+Neonatal Intermediate Care Beds,18,NYU Langone Hospitals
+Pediatric Beds,34,NYU Langone Hospitals
+Pediatric ICU Beds,34,NYU Langone Hospitals
+Physical Medicine and Rehabilitation Beds,117,NYU Langone Hospitals
+Psychiatric Beds,22,NYU Langone Hospitals
+Total Beds,844,NYU Langone Hospitals
+Intensive Care Beds,16,Queens Hospital Center
+Maternity Beds,20,Queens Hospital Center
+Medical / Surgical Beds,165,Queens Hospital Center
+Neonatal Intensive Care Beds,11,Queens Hospital Center
+Neonatal Intermediate Care Beds,4,Queens Hospital Center
+Psychiatric Beds,53,Queens Hospital Center
+Total Beds,269,Queens Hospital Center
+Medical / Surgical Beds,69,New York Eye and Ear Infirmary of Mount Sinai
+Total Beds,69,New York Eye and Ear Infirmary of Mount Sinai
+Coma Recovery Beds,7,NYU Langone Orthopedic Hospital
+Medical / Surgical Beds,144,NYU Langone Orthopedic Hospital
+Physical Medicine and Rehabilitation Beds,51,NYU Langone Orthopedic Hospital
+Traumatic Brain Injury Beds,23,NYU Langone Orthopedic Hospital
+Total Beds,225,NYU Langone Orthopedic Hospital
+Intensive Care Beds,20,North Central Bronx Hospital
+Maternity Beds,26,North Central Bronx Hospital
+Medical / Surgical Beds,79,North Central Bronx Hospital
+Neonatal Continuing Care Beds,2,North Central Bronx Hospital
+Neonatal Intensive Care Beds,7,North Central Bronx Hospital
+Neonatal Intermediate Care Beds,3,North Central Bronx Hospital
+Pediatric Beds,6,North Central Bronx Hospital
+Psychiatric Beds,70,North Central Bronx Hospital
+Total Beds,213,North Central Bronx Hospital
+Chemical Dependence - Detoxification Beds,20,Bellevue Hospital Center
+Coronary Care Beds,12,Bellevue Hospital Center
+Intensive Care Beds,40,Bellevue Hospital Center
+Maternity Beds,25,Bellevue Hospital Center
+Medical / Surgical Beds,290,Bellevue Hospital Center
+Neonatal Continuing Care Beds,5,Bellevue Hospital Center
+Neonatal Intensive Care Beds,5,Bellevue Hospital Center
+Neonatal Intermediate Care Beds,15,Bellevue Hospital Center
+Pediatric Beds,22,Bellevue Hospital Center
+Pediatric ICU Beds,5,Bellevue Hospital Center
+Physical Medicine and Rehabilitation Beds,34,Bellevue Hospital Center
+Prisoner Beds,34,Bellevue Hospital Center
+Psychiatric Beds,339,Bellevue Hospital Center
+Respiratory Beds,54,Bellevue Hospital Center
+Traumatic Brain Injury Beds,12,Bellevue Hospital Center
+Total Beds,912,Bellevue Hospital Center
+AIDS Beds,30,New York-Presbyterian Hospital - New York Weill Cornell Center
+Bone Marrow Transplant Beds,15,New York-Presbyterian Hospital - New York Weill Cornell Center
+Burns Care Beds,23,New York-Presbyterian Hospital - New York Weill Cornell Center
+Chemical Dependence  - Rehabilitation Beds,14,New York-Presbyterian Hospital - New York Weill Cornell Center
+Chemical Dependence - Detoxification Beds,3,New York-Presbyterian Hospital - New York Weill Cornell Center
+Coronary Care Beds,20,New York-Presbyterian Hospital - New York Weill Cornell Center
+Intensive Care Beds,85,New York-Presbyterian Hospital - New York Weill Cornell Center
+Maternity Beds,68,New York-Presbyterian Hospital - New York Weill Cornell Center
+Medical / Surgical Beds,427,New York-Presbyterian Hospital - New York Weill Cornell Center
+Neonatal Continuing Care Beds,16,New York-Presbyterian Hospital - New York Weill Cornell Center
+Neonatal Intensive Care Beds,15,New York-Presbyterian Hospital - New York Weill Cornell Center
+Neonatal Intermediate Care Beds,19,New York-Presbyterian Hospital - New York Weill Cornell Center
+Pediatric Beds,46,New York-Presbyterian Hospital - New York Weill Cornell Center
+Pediatric ICU Beds,23,New York-Presbyterian Hospital - New York Weill Cornell Center
+Physical Medicine and Rehabilitation Beds,22,New York-Presbyterian Hospital - New York Weill Cornell Center
+Psychiatric Beds,36,New York-Presbyterian Hospital - New York Weill Cornell Center
+Total Beds,862,New York-Presbyterian Hospital - New York Weill Cornell Center
+AIDS Beds,20,New York-Presbyterian/Queens
+Coronary Care Beds,13,New York-Presbyterian/Queens
+Intensive Care Beds,29,New York-Presbyterian/Queens
+Maternity Beds,30,New York-Presbyterian/Queens
+Medical / Surgical Beds,393,New York-Presbyterian/Queens
+Neonatal Continuing Care Beds,5,New York-Presbyterian/Queens
+Neonatal Intensive Care Beds,3,New York-Presbyterian/Queens
+Neonatal Intermediate Care Beds,6,New York-Presbyterian/Queens
+Pediatric Beds,20,New York-Presbyterian/Queens
+Transitional Care Beds,16,New York-Presbyterian/Queens
+Total Beds,535,New York-Presbyterian/Queens
+AIDS Beds,31,Mount Sinai St. Luke's
+Coronary Care Beds,28,Mount Sinai St. Luke's
+Intensive Care Beds,24,Mount Sinai St. Luke's
+Medical / Surgical Beds,294,Mount Sinai St. Luke's
+Pediatric Beds,25,Mount Sinai St. Luke's
+Physical Medicine and Rehabilitation Beds,15,Mount Sinai St. Luke's
+Psychiatric Beds,78,Mount Sinai St. Luke's
+Total Beds,495,Mount Sinai St. Luke's
+AIDS Beds,14,New York-Presbyterian Hospital - Columbia Presbyterian Center
+Bone Marrow Transplant Beds,12,New York-Presbyterian Hospital - Columbia Presbyterian Center
+Chemical Dependence - Detoxification Beds,3,New York-Presbyterian Hospital - Columbia Presbyterian Center
+Coronary Care Beds,18,New York-Presbyterian Hospital - Columbia Presbyterian Center
+Intensive Care Beds,99,New York-Presbyterian Hospital - Columbia Presbyterian Center
+Maternity Beds,68,New York-Presbyterian Hospital - Columbia Presbyterian Center
+Medical / Surgical Beds,551,New York-Presbyterian Hospital - Columbia Presbyterian Center
+Neonatal Continuing Care Beds,11,New York-Presbyterian Hospital - Columbia Presbyterian Center
+Neonatal Intensive Care Beds,50,New York-Presbyterian Hospital - Columbia Presbyterian Center
+Neonatal Intermediate Care Beds,14,New York-Presbyterian Hospital - Columbia Presbyterian Center
+Pediatric Beds,100,New York-Presbyterian Hospital - Columbia Presbyterian Center
+Pediatric ICU Beds,41,New York-Presbyterian Hospital - Columbia Presbyterian Center
+Physical Medicine and Rehabilitation Beds,16,New York-Presbyterian Hospital - Columbia Presbyterian Center
+Psychiatric Beds,25,New York-Presbyterian Hospital - Columbia Presbyterian Center
+Total Beds,1022,New York-Presbyterian Hospital - Columbia Presbyterian Center
+Coronary Care Beds,6,New York-Presbyterian Hospital - Allen Hospital
+Intensive Care Beds,6,New York-Presbyterian Hospital - Allen Hospital
+Maternity Beds,20,New York-Presbyterian Hospital - Allen Hospital
+Medical / Surgical Beds,128,New York-Presbyterian Hospital - Allen Hospital
+Neonatal Intermediate Care Beds,6,New York-Presbyterian Hospital - Allen Hospital
+Psychiatric Beds,30,New York-Presbyterian Hospital - Allen Hospital
+Total Beds,196,New York-Presbyterian Hospital - Allen Hospital
+Intensive Care Beds,7,"New York Community Hospital of Brooklyn, Inc"
+Medical / Surgical Beds,127,"New York Community Hospital of Brooklyn, Inc"
+Total Beds,134,"New York Community Hospital of Brooklyn, Inc"
+Intensive Care Beds,16,Wyckoff Heights Medical Center
+Maternity Beds,26,Wyckoff Heights Medical Center
+Medical / Surgical Beds,244,Wyckoff Heights Medical Center
+Neonatal Continuing Care Beds,5,Wyckoff Heights Medical Center
+Neonatal Intensive Care Beds,5,Wyckoff Heights Medical Center
+Pediatric Beds,28,Wyckoff Heights Medical Center
+Total Beds,324,Wyckoff Heights Medical Center
+AIDS Beds,18,Mount Sinai West
+Chemical Dependence  - Rehabilitation Beds,22,Mount Sinai West
+Chemical Dependence - Detoxification Beds,22,Mount Sinai West
+Intensive Care Beds,33,Mount Sinai West
+Maternity Beds,72,Mount Sinai West
+Medical / Surgical Beds,255,Mount Sinai West
+Neonatal Continuing Care Beds,15,Mount Sinai West
+Neonatal Intensive Care Beds,10,Mount Sinai West
+Neonatal Intermediate Care Beds,10,Mount Sinai West
+Physical Medicine and Rehabilitation Beds,25,Mount Sinai West
+Psychiatric Beds,32,Mount Sinai West
+Total Beds,514,Mount Sinai West
+AIDS Beds,15,University Hospital of Brooklyn
+Coronary Care Beds,7,University Hospital of Brooklyn
+Intensive Care Beds,19,University Hospital of Brooklyn
+Maternity Beds,34,University Hospital of Brooklyn
+Medical / Surgical Beds,175,University Hospital of Brooklyn
+Neonatal Continuing Care Beds,7,University Hospital of Brooklyn
+Neonatal Intensive Care Beds,14,University Hospital of Brooklyn
+Neonatal Intermediate Care Beds,8,University Hospital of Brooklyn
+Pediatric Beds,40,University Hospital of Brooklyn
+Pediatric ICU Beds,5,University Hospital of Brooklyn
+Physical Medicine and Rehabilitation Beds,18,University Hospital of Brooklyn
+Total Beds,342,University Hospital of Brooklyn
+Chemical Dependence  - Rehabilitation Beds,24,Staten Island University Hosp-South
+Chemical Dependence - Detoxification Beds,44,Staten Island University Hosp-South
+Coronary Care Beds,8,Staten Island University Hosp-South
+Intensive Care Beds,8,Staten Island University Hosp-South
+Medical / Surgical Beds,75,Staten Island University Hosp-South
+Psychiatric Beds,35,Staten Island University Hosp-South
+Total Beds,194,Staten Island University Hosp-South
+Coronary Care Beds,10,New York-Presbyterian Brooklyn Methodist Hospital
+Intensive Care Beds,28,New York-Presbyterian Brooklyn Methodist Hospital
+Maternity Beds,50,New York-Presbyterian Brooklyn Methodist Hospital
+Medical / Surgical Beds,385,New York-Presbyterian Brooklyn Methodist Hospital
+Neonatal Intensive Care Beds,18,New York-Presbyterian Brooklyn Methodist Hospital
+Neonatal Intermediate Care Beds,6,New York-Presbyterian Brooklyn Methodist Hospital
+Pediatric Beds,15,New York-Presbyterian Brooklyn Methodist Hospital
+Pediatric ICU Beds,4,New York-Presbyterian Brooklyn Methodist Hospital
+Physical Medicine and Rehabilitation Beds,25,New York-Presbyterian Brooklyn Methodist Hospital
+Psychiatric Beds,50,New York-Presbyterian Brooklyn Methodist Hospital
+Total Beds,591,New York-Presbyterian Brooklyn Methodist Hospital
+AIDS Beds,11,Woodhull Medical & Mental Health Center
+Chemical Dependence - Detoxification Beds,21,Woodhull Medical & Mental Health Center
+Intensive Care Beds,24,Woodhull Medical & Mental Health Center
+Maternity Beds,24,Woodhull Medical & Mental Health Center
+Medical / Surgical Beds,128,Woodhull Medical & Mental Health Center
+Neonatal Continuing Care Beds,3,Woodhull Medical & Mental Health Center
+Neonatal Intensive Care Beds,4,Woodhull Medical & Mental Health Center
+Neonatal Intermediate Care Beds,3,Woodhull Medical & Mental Health Center
+Pediatric Beds,20,Woodhull Medical & Mental Health Center
+Physical Medicine and Rehabilitation Beds,14,Woodhull Medical & Mental Health Center
+Psychiatric Beds,112,Woodhull Medical & Mental Health Center
+Total Beds,364,Woodhull Medical & Mental Health Center
+Burns Care Beds,10,Staten Island University Hosp-North
+Coma Recovery Beds,2,Staten Island University Hosp-North
+Coronary Care Beds,32,Staten Island University Hosp-North
+Intensive Care Beds,36,Staten Island University Hosp-North
+Maternity Beds,41,Staten Island University Hosp-North
+Medical / Surgical Beds,266,Staten Island University Hosp-North
+Neonatal Continuing Care Beds,2,Staten Island University Hosp-North
+Neonatal Intensive Care Beds,6,Staten Island University Hosp-North
+Neonatal Intermediate Care Beds,3,Staten Island University Hosp-North
+Pediatric Beds,23,Staten Island University Hosp-North
+Pediatric ICU Beds,4,Staten Island University Hosp-North
+Physical Medicine and Rehabilitation Beds,29,Staten Island University Hosp-North
+Traumatic Brain Injury Beds,18,Staten Island University Hosp-North
+Total Beds,472,Staten Island University Hosp-North
+AIDS Beds,22,St. Barnabas Hospital Health System
+Chemical Dependence - Detoxification Beds,24,St. Barnabas Hospital Health System
+Intensive Care Beds,26,St. Barnabas Hospital Health System
+Maternity Beds,16,St. Barnabas Hospital Health System
+Medical / Surgical Beds,254,St. Barnabas Hospital Health System
+Neonatal Continuing Care Beds,5,St. Barnabas Hospital Health System
+Neonatal Intermediate Care Beds,10,St. Barnabas Hospital Health System
+Pediatric Beds,16,St. Barnabas Hospital Health System
+Psychiatric Beds,49,St. Barnabas Hospital Health System
+Total Beds,422,St. Barnabas Hospital Health System
+Chemical Dependence - Detoxification Beds,32,St Johns Episcopal Hospital So Shore
+Coronary Care Beds,8,St Johns Episcopal Hospital So Shore
+Intensive Care Beds,8,St Johns Episcopal Hospital So Shore
+Maternity Beds,12,St Johns Episcopal Hospital So Shore
+Medical / Surgical Beds,144,St Johns Episcopal Hospital So Shore
+Neonatal Intermediate Care Beds,4,St Johns Episcopal Hospital So Shore
+Pediatric Beds,6,St Johns Episcopal Hospital So Shore
+Psychiatric Beds,43,St Johns Episcopal Hospital So Shore
+Total Beds,257,St Johns Episcopal Hospital So Shore
+Psychiatric Beds,25,RUMC-Bayley Seton
+Total Beds,25,RUMC-Bayley Seton
+Medical / Surgical Beds,40,Rockefeller University Hospital
+Total Beds,40,Rockefeller University Hospital
+Chemical Dependence - Detoxification Beds,7,Richmond University Medical Center
+Coronary Care Beds,10,Richmond University Medical Center
+Intensive Care Beds,20,Richmond University Medical Center
+Maternity Beds,34,Richmond University Medical Center
+Medical / Surgical Beds,286,Richmond University Medical Center
+Neonatal Continuing Care Beds,6,Richmond University Medical Center
+Neonatal Intensive Care Beds,8,Richmond University Medical Center
+Neonatal Intermediate Care Beds,11,Richmond University Medical Center
+Pediatric Beds,23,Richmond University Medical Center
+Pediatric ICU Beds,3,Richmond University Medical Center
+Psychiatric Beds,40,Richmond University Medical Center
+Total Beds,448,Richmond University Medical Center
+Intensive Care Beds,8,Mount Sinai Hospital - Mount Sinai Hospital of Queens
+Medical / Surgical Beds,220,Mount Sinai Hospital - Mount Sinai Hospital of Queens
+Total Beds,228,Mount Sinai Hospital - Mount Sinai Hospital of Queens
+AIDS Beds,50,Mount Sinai Hospital
+Coronary Care Beds,14,Mount Sinai Hospital
+Intensive Care Beds,85,Mount Sinai Hospital
+Maternity Beds,74,Mount Sinai Hospital
+Medical / Surgical Beds,639,Mount Sinai Hospital
+Neonatal Continuing Care Beds,10,Mount Sinai Hospital
+Neonatal Intensive Care Beds,26,Mount Sinai Hospital
+Neonatal Intermediate Care Beds,10,Mount Sinai Hospital
+Pediatric Beds,64,Mount Sinai Hospital
+Pediatric ICU Beds,16,Mount Sinai Hospital
+Physical Medicine and Rehabilitation Beds,88,Mount Sinai Hospital
+Psychiatric Beds,46,Mount Sinai Hospital
+Traumatic Brain Injury Beds,12,Mount Sinai Hospital
+Total Beds,1134,Mount Sinai Hospital
+Intensive Care Beds,16,Montefiore Medical Center-Wakefield Hospital
+Maternity Beds,30,Montefiore Medical Center-Wakefield Hospital
+Medical / Surgical Beds,206,Montefiore Medical Center-Wakefield Hospital
+Neonatal Continuing Care Beds,2,Montefiore Medical Center-Wakefield Hospital
+Neonatal Intensive Care Beds,4,Montefiore Medical Center-Wakefield Hospital
+Neonatal Intermediate Care Beds,9,Montefiore Medical Center-Wakefield Hospital
+Pediatric Beds,5,Montefiore Medical Center-Wakefield Hospital
+Physical Medicine and Rehabilitation Beds,16,Montefiore Medical Center-Wakefield Hospital
+Psychiatric Beds,33,Montefiore Medical Center-Wakefield Hospital
+Total Beds,321,Montefiore Medical Center-Wakefield Hospital
+Coronary Care Beds,6,Mount Sinai Brooklyn
+Intensive Care Beds,12,Mount Sinai Brooklyn
+Medical / Surgical Beds,194,Mount Sinai Brooklyn
+Total Beds,212,Mount Sinai Brooklyn
+Chemical Dependence - Detoxification Beds,19,Metropolitan Hospital Center
+Coronary Care Beds,6,Metropolitan Hospital Center
+Intensive Care Beds,18,Metropolitan Hospital Center
+Maternity Beds,20,Metropolitan Hospital Center
+Medical / Surgical Beds,105,Metropolitan Hospital Center
+Neonatal Continuing Care Beds,6,Metropolitan Hospital Center
+Neonatal Intensive Care Beds,4,Metropolitan Hospital Center
+Neonatal Intermediate Care Beds,4,Metropolitan Hospital Center
+Pediatric Beds,14,Metropolitan Hospital Center
+Physical Medicine and Rehabilitation Beds,20,Metropolitan Hospital Center
+Psychiatric Beds,122,Metropolitan Hospital Center
+Total Beds,338,Metropolitan Hospital Center
+AIDS Beds,13,Montefiore Medical Center - Henry & Lucy Moses Div
+Bone Marrow Transplant Beds,4,Montefiore Medical Center - Henry & Lucy Moses Div
+Coronary Care Beds,12,Montefiore Medical Center - Henry & Lucy Moses Div
+Intensive Care Beds,48,Montefiore Medical Center - Henry & Lucy Moses Div
+Medical / Surgical Beds,581,Montefiore Medical Center - Henry & Lucy Moses Div
+Pediatric Beds,116,Montefiore Medical Center - Henry & Lucy Moses Div
+Pediatric ICU Beds,20,Montefiore Medical Center - Henry & Lucy Moses Div
+Psychiatric Beds,22,Montefiore Medical Center - Henry & Lucy Moses Div
+Total Beds,816,Montefiore Medical Center - Henry & Lucy Moses Div
+Coronary Care Beds,10,Montefiore Med Center - Jack D Weiler Hosp of A Einstein College Div
+Intensive Care Beds,22,Montefiore Med Center - Jack D Weiler Hosp of A Einstein College Div
+Maternity Beds,50,Montefiore Med Center - Jack D Weiler Hosp of A Einstein College Div
+Medical / Surgical Beds,304,Montefiore Med Center - Jack D Weiler Hosp of A Einstein College Div
+Neonatal Continuing Care Beds,9,Montefiore Med Center - Jack D Weiler Hosp of A Einstein College Div
+Neonatal Intensive Care Beds,11,Montefiore Med Center - Jack D Weiler Hosp of A Einstein College Div
+Neonatal Intermediate Care Beds,15,Montefiore Med Center - Jack D Weiler Hosp of A Einstein College Div
+Total Beds,421,Montefiore Med Center - Jack D Weiler Hosp of A Einstein College Div
+Intensive Care Beds,20,Memorial Hospital for Cancer and Allied Diseases
+Medical / Surgical Beds,456,Memorial Hospital for Cancer and Allied Diseases
+Pediatric Beds,33,Memorial Hospital for Cancer and Allied Diseases
+Pediatric ICU Beds,5,Memorial Hospital for Cancer and Allied Diseases
+Total Beds,514,Memorial Hospital for Cancer and Allied Diseases
+Chemical Dependence  - Rehabilitation Beds,30,Mount Sinai Beth Israel
+Chemical Dependence - Detoxification Beds,31,Mount Sinai Beth Israel
+Coronary Care Beds,8,Mount Sinai Beth Israel
+Intensive Care Beds,36,Mount Sinai Beth Israel
+Medical / Surgical Beds,499,Mount Sinai Beth Israel
+Psychiatric Beds,92,Mount Sinai Beth Israel
+Total Beds,696,Mount Sinai Beth Israel
+AIDS Beds,11,NYU Langone Hospital-Brooklyn
+Coronary Care Beds,8,NYU Langone Hospital-Brooklyn
+Intensive Care Beds,28,NYU Langone Hospital-Brooklyn
+Maternity Beds,41,NYU Langone Hospital-Brooklyn
+Medical / Surgical Beds,271,NYU Langone Hospital-Brooklyn
+Neonatal Continuing Care Beds,6,NYU Langone Hospital-Brooklyn
+Neonatal Intermediate Care Beds,4,NYU Langone Hospital-Brooklyn
+Pediatric Beds,10,NYU Langone Hospital-Brooklyn
+Physical Medicine and Rehabilitation Beds,30,NYU Langone Hospital-Brooklyn
+Psychiatric Beds,35,NYU Langone Hospital-Brooklyn
+Total Beds,444,NYU Langone Hospital-Brooklyn
+Coronary Care Beds,10,Maimonides Medical Center
+Intensive Care Beds,40,Maimonides Medical Center
+Maternity Beds,69,Maimonides Medical Center
+Medical / Surgical Beds,448,Maimonides Medical Center
+Neonatal Continuing Care Beds,9,Maimonides Medical Center
+Neonatal Intensive Care Beds,10,Maimonides Medical Center
+Neonatal Intermediate Care Beds,12,Maimonides Medical Center
+Pediatric Beds,32,Maimonides Medical Center
+Pediatric ICU Beds,11,Maimonides Medical Center
+Psychiatric Beds,70,Maimonides Medical Center
+Total Beds,711,Maimonides Medical Center
+Coronary Care Beds,7,Lincoln Medical & Mental Health Center
+Intensive Care Beds,23,Lincoln Medical & Mental Health Center
+Maternity Beds,35,Lincoln Medical & Mental Health Center
+Medical / Surgical Beds,177,Lincoln Medical & Mental Health Center
+Neonatal Continuing Care Beds,10,Lincoln Medical & Mental Health Center
+Neonatal Intensive Care Beds,5,Lincoln Medical & Mental Health Center
+Neonatal Intermediate Care Beds,5,Lincoln Medical & Mental Health Center
+Pediatric Beds,32,Lincoln Medical & Mental Health Center
+Pediatric ICU Beds,8,Lincoln Medical & Mental Health Center
+Psychiatric Beds,60,Lincoln Medical & Mental Health Center
+Total Beds,362,Lincoln Medical & Mental Health Center
+Chemical Dependence - Detoxification Beds,30,Kings County Hospital Center
+Coronary Care Beds,8,Kings County Hospital Center
+Intensive Care Beds,32,Kings County Hospital Center
+Maternity Beds,30,Kings County Hospital Center
+Medical / Surgical Beds,246,Kings County Hospital Center
+Neonatal Continuing Care Beds,10,Kings County Hospital Center
+Neonatal Intensive Care Beds,10,Kings County Hospital Center
+Neonatal Intermediate Care Beds,10,Kings County Hospital Center
+Pediatric Beds,28,Kings County Hospital Center
+Pediatric ICU Beds,7,Kings County Hospital Center
+Physical Medicine and Rehabilitation Beds,23,Kings County Hospital Center
+Psychiatric Beds,205,Kings County Hospital Center
+Total Beds,639,Kings County Hospital Center
+Bone Marrow Transplant Beds,4,Long Island Jewish Medical Center
+Coronary Care Beds,10,Long Island Jewish Medical Center
+Intensive Care Beds,62,Long Island Jewish Medical Center
+Maternity Beds,76,Long Island Jewish Medical Center
+Medical / Surgical Beds,435,Long Island Jewish Medical Center
+Neonatal Continuing Care Beds,4,Long Island Jewish Medical Center
+Neonatal Intensive Care Beds,24,Long Island Jewish Medical Center
+Neonatal Intermediate Care Beds,29,Long Island Jewish Medical Center
+Pediatric Beds,108,Long Island Jewish Medical Center
+Pediatric ICU Beds,37,Long Island Jewish Medical Center
+Psychiatric Beds,236,Long Island Jewish Medical Center
+Total Beds,1025,Long Island Jewish Medical Center
+Coronary Care Beds,4,Jamaica Hospital Medical Center
+Intensive Care Beds,8,Jamaica Hospital Medical Center
+Maternity Beds,40,Jamaica Hospital Medical Center
+Medical / Surgical Beds,228,Jamaica Hospital Medical Center
+Neonatal Continuing Care Beds,4,Jamaica Hospital Medical Center
+Neonatal Intensive Care Beds,5,Jamaica Hospital Medical Center
+Neonatal Intermediate Care Beds,10,Jamaica Hospital Medical Center
+Pediatric Beds,24,Jamaica Hospital Medical Center
+Physical Medicine and Rehabilitation Beds,16,Jamaica Hospital Medical Center
+Psychiatric Beds,56,Jamaica Hospital Medical Center
+Transitional Care Beds,7,Jamaica Hospital Medical Center
+Total Beds,402,Jamaica Hospital Medical Center
+Burns Care Beds,8,Jacobi Medical Center
+Chemical Dependence - Detoxification Beds,16,Jacobi Medical Center
+Coronary Care Beds,12,Jacobi Medical Center
+Intensive Care Beds,24,Jacobi Medical Center
+Maternity Beds,26,Jacobi Medical Center
+Medical / Surgical Beds,174,Jacobi Medical Center
+Neonatal Continuing Care Beds,5,Jacobi Medical Center
+Neonatal Intensive Care Beds,10,Jacobi Medical Center
+Neonatal Intermediate Care Beds,10,Jacobi Medical Center
+Pediatric Beds,33,Jacobi Medical Center
+Pediatric ICU Beds,8,Jacobi Medical Center
+Physical Medicine and Rehabilitation Beds,24,Jacobi Medical Center
+Psychiatric Beds,107,Jacobi Medical Center
+Total Beds,457,Jacobi Medical Center
+AIDS Beds,12,Lenox Hill Hospital
+Coronary Care Beds,27,Lenox Hill Hospital
+Intensive Care Beds,15,Lenox Hill Hospital
+Maternity Beds,33,Lenox Hill Hospital
+Medical / Surgical Beds,476,Lenox Hill Hospital
+Neonatal Continuing Care Beds,10,Lenox Hill Hospital
+Neonatal Intensive Care Beds,10,Lenox Hill Hospital
+Neonatal Intermediate Care Beds,8,Lenox Hill Hospital
+Pediatric Beds,14,Lenox Hill Hospital
+Psychiatric Beds,27,Lenox Hill Hospital
+Total Beds,632,Lenox Hill Hospital
+Coma Recovery Beds,5,Kingsbrook Jewish Medical Center
+Coronary Care Beds,10,Kingsbrook Jewish Medical Center
+Intensive Care Beds,10,Kingsbrook Jewish Medical Center
+Medical / Surgical Beds,163,Kingsbrook Jewish Medical Center
+Physical Medicine and Rehabilitation Beds,40,Kingsbrook Jewish Medical Center
+Psychiatric Beds,55,Kingsbrook Jewish Medical Center
+Traumatic Brain Injury Beds,20,Kingsbrook Jewish Medical Center
+Total Beds,303,Kingsbrook Jewish Medical Center
+Medical / Surgical Beds,2,Lenox Health Greenwich Village
+Total Beds,2,Lenox Health Greenwich Village
+Intensive Care Beds,4,Hospital for Special Surgery
+Medical / Surgical Beds,201,Hospital for Special Surgery
+Pediatric Beds,10,Hospital for Special Surgery
+Total Beds,215,Hospital for Special Surgery
+Medical / Surgical Beds,201,Henry J. Carter Specialty Hospital
+Total Beds,201,Henry J. Carter Specialty Hospital
+Burns Care Beds,3,Harlem Hospital Center
+Chemical Dependence - Detoxification Beds,14,Harlem Hospital Center
+Coronary Care Beds,6,Harlem Hospital Center
+Intensive Care Beds,14,Harlem Hospital Center
+Maternity Beds,13,Harlem Hospital Center
+Medical / Surgical Beds,151,Harlem Hospital Center
+Neonatal Intensive Care Beds,15,Harlem Hospital Center
+Pediatric Beds,12,Harlem Hospital Center
+Pediatric ICU Beds,3,Harlem Hospital Center
+Psychiatric Beds,51,Harlem Hospital Center
+Total Beds,282,Harlem Hospital Center
+Intensive Care Beds,28,Long Island Jewish Forest Hills
+Maternity Beds,23,Long Island Jewish Forest Hills
+Medical / Surgical Beds,251,Long Island Jewish Forest Hills
+Neonatal Continuing Care Beds,9,Long Island Jewish Forest Hills
+Neonatal Intermediate Care Beds,1,Long Island Jewish Forest Hills
+Total Beds,312,Long Island Jewish Forest Hills
+Chemical Dependence  - Rehabilitation Beds,20,Interfaith Medical Center
+Chemical Dependence - Detoxification Beds,20,Interfaith Medical Center
+Intensive Care Beds,13,Interfaith Medical Center
+Medical / Surgical Beds,104,Interfaith Medical Center
+Pediatric Beds,10,Interfaith Medical Center
+Psychiatric Beds,120,Interfaith Medical Center
+Total Beds,287,Interfaith Medical Center
+Chemical Dependence - Detoxification Beds,30,Flushing Hospital Medical Center
+Coronary Care Beds,6,Flushing Hospital Medical Center
+Intensive Care Beds,12,Flushing Hospital Medical Center
+Maternity Beds,24,Flushing Hospital Medical Center
+Medical / Surgical Beds,169,Flushing Hospital Medical Center
+Neonatal Continuing Care Beds,3,Flushing Hospital Medical Center
+Neonatal Intensive Care Beds,6,Flushing Hospital Medical Center
+Neonatal Intermediate Care Beds,5,Flushing Hospital Medical Center
+Pediatric Beds,20,Flushing Hospital Medical Center
+Psychiatric Beds,18,Flushing Hospital Medical Center
+Transitional Care Beds,6,Flushing Hospital Medical Center
+Total Beds,299,Flushing Hospital Medical Center
+Coronary Care Beds,9,Elmhurst Hospital Center
+Intensive Care Beds,20,Elmhurst Hospital Center
+Maternity Beds,44,Elmhurst Hospital Center
+Medical / Surgical Beds,233,Elmhurst Hospital Center
+Neonatal Continuing Care Beds,12,Elmhurst Hospital Center
+Neonatal Intensive Care Beds,9,Elmhurst Hospital Center
+Neonatal Intermediate Care Beds,9,Elmhurst Hospital Center
+Pediatric Beds,22,Elmhurst Hospital Center
+Physical Medicine and Rehabilitation Beds,10,Elmhurst Hospital Center
+Psychiatric Beds,177,Elmhurst Hospital Center
+Total Beds,545,Elmhurst Hospital Center
+Medical / Surgical Beds,25,Calvary Hospital
+Total Beds,25,Calvary Hospital
+Chemical Dependence - Detoxification Beds,15,Coney Island Hospital
+Coronary Care Beds,9,Coney Island Hospital
+Intensive Care Beds,22,Coney Island Hospital
+Maternity Beds,14,Coney Island Hospital
+Medical / Surgical Beds,213,Coney Island Hospital
+Neonatal Intermediate Care Beds,10,Coney Island Hospital
+Pediatric Beds,9,Coney Island Hospital
+Physical Medicine and Rehabilitation Beds,15,Coney Island Hospital
+Psychiatric Beds,64,Coney Island Hospital
+Total Beds,371,Coney Island Hospital
+Chemical Dependence  - Rehabilitation Beds,30,BronxCare Hospital Center
+Chemical Dependence - Detoxification Beds,36,BronxCare Hospital Center
+Psychiatric Beds,104,BronxCare Hospital Center
+Total Beds,170,BronxCare Hospital Center
+Medical / Surgical Beds,200,Calvary Hospital Inc
+Total Beds,200,Calvary Hospital Inc
+AIDS Beds,22,BronxCare Hospital Center
+Coronary Care Beds,11,BronxCare Hospital Center
+Intensive Care Beds,26,BronxCare Hospital Center
+Maternity Beds,36,BronxCare Hospital Center
+Medical / Surgical Beds,250,BronxCare Hospital Center
+Neonatal Continuing Care Beds,6,BronxCare Hospital Center
+Neonatal Intensive Care Beds,14,BronxCare Hospital Center
+Neonatal Intermediate Care Beds,20,BronxCare Hospital Center
+Pediatric Beds,25,BronxCare Hospital Center
+Pediatric ICU Beds,5,BronxCare Hospital Center
+Total Beds,415,BronxCare Hospital Center
+AIDS Beds,5,Brooklyn Hospital Center - Downtown Campus
+Chemical Dependence - Detoxification Beds,10,Brooklyn Hospital Center - Downtown Campus
+Coronary Care Beds,6,Brooklyn Hospital Center - Downtown Campus
+Intensive Care Beds,24,Brooklyn Hospital Center - Downtown Campus
+Maternity Beds,42,Brooklyn Hospital Center - Downtown Campus
+Medical / Surgical Beds,311,Brooklyn Hospital Center - Downtown Campus
+Neonatal Intensive Care Beds,10,Brooklyn Hospital Center - Downtown Campus
+Neonatal Intermediate Care Beds,18,Brooklyn Hospital Center - Downtown Campus
+Pediatric Beds,22,Brooklyn Hospital Center - Downtown Campus
+Pediatric ICU Beds,6,Brooklyn Hospital Center - Downtown Campus
+Physical Medicine and Rehabilitation Beds,10,Brooklyn Hospital Center - Downtown Campus
+Total Beds,464,Brooklyn Hospital Center - Downtown Campus
+Coronary Care Beds,6,Brookdale Hospital Medical Center
+Intensive Care Beds,26,Brookdale Hospital Medical Center
+Maternity Beds,40,Brookdale Hospital Medical Center
+Medical / Surgical Beds,326,Brookdale Hospital Medical Center
+Neonatal Continuing Care Beds,10,Brookdale Hospital Medical Center
+Neonatal Intensive Care Beds,10,Brookdale Hospital Medical Center
+Neonatal Intermediate Care Beds,10,Brookdale Hospital Medical Center
+Pediatric Beds,35,Brookdale Hospital Medical Center
+Pediatric ICU Beds,6,Brookdale Hospital Medical Center
+Psychiatric Beds,61,Brookdale Hospital Medical Center
+Total Beds,530,Brookdale Hospital Medical Center

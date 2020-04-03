@@ -1,1 +1,16 @@
+*.pyc
+*.pyo
+*.db
+*.pot
+*.swp
+*.swo
+*.doctree
+.doctrees
+.DS_Store
 .ipynb_checkpoints/
+epiquery_nyc_*.csv
+local_settings.py
+build/
+docs/build/
+dist/
+images/
