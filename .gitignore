@@ -14,3 +14,4 @@ build/
 docs/build/
 dist/
 images/
+.~lock*
