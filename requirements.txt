@@ -86,7 +86,7 @@ plac==0.9.6
 preshed==1.0.0
 prometheus-client==0.7.1
 prompt-toolkit==1.0.15
-psutil==5.6.4
+psutil==5.6.6
 psycopg2-binary==2.7.5
 ptyprocess==0.6.0
 pycodestyle==2.5.0
