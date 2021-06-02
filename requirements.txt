@@ -128,7 +128,7 @@ tqdm==4.37.0
 traitlets==4.3.2
 twilio==6.14.7
 ujson==1.35
-urllib3==1.24.2
+urllib3==1.26.5
 vega-datasets==0.8.0
 vincent==0.4.4
 wcwidth==0.1.7
