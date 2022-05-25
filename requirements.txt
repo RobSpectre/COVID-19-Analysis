@@ -91,7 +91,7 @@ psycopg2-binary==2.7.5
 ptyprocess==0.6.0
 pycodestyle==2.5.0
 Pygments==2.2.0
-PyJWT==1.6.4
+PyJWT==2.4.0
 PyMeeus==0.3.7
 pyparsing==2.2.0
 PySocks==1.6.8
