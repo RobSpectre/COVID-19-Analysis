@@ -127,7 +127,7 @@ tornado==5.0.2
 tqdm==4.37.0
 traitlets==4.3.2
 twilio==6.14.7
-ujson==1.35
+ujson==5.2.0
 urllib3==1.24.2
 vega-datasets==0.8.0
 vincent==0.4.4
