@@ -18,7 +18,7 @@ dask==2.6.0
 decorator==4.3.0
 demjson==2.2.4
 dill==0.2.8.2
-distributed==2.6.0
+distributed==2021.10.0
 distro==1.4.0
 entrypoints==0.2.3
 ephem==3.7.7.1
